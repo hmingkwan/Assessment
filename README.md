@@ -14,7 +14,6 @@ RBAs are designed to enhance business efficiency and decision-making by leveragi
 
 - **Frameworks**:
   - **AutoGen**: A framework for building conversational agents.
-  - **LlamaIndex**: A toolkit for building applications with LLMs.
 
 ## Setup in Google Colab
 
